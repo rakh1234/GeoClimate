@@ -1,5 +1,5 @@
-# GeoClimate
-UI
+# GeoClimate App
+Prototype made by Figma.
 
 # App Image :![IMG_1465](https://user-images.githubusercontent.com/82308605/184570716-4e74179d-b04d-4542-80ec-22097411274e.JPG)
 ![IMG_1466](https://user-images.githubusercontent.com/82308605/184570728-a1fca8e3-2786-4458-aeac-891ac5395028.JPG)
